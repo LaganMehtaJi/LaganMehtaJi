@@ -7,9 +7,7 @@
 <h3 align="center">🔭 Transforming complex problems into elegant solutions | 📦 npm package contributor</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lagan-mehta">
-    <img src="https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
+ 
   <a href="mailto:laganmehta.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Email_Me-critical?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
@@ -99,7 +97,7 @@
     </tr>
   </table>
   
-  <img src="https://leetcard.jacoblin.cool/laganmehta?theme=dark&font=Karma&ext=activity" width="60%" alt="LeetCode Stats"/>
+  
 </div>
 
 ---
