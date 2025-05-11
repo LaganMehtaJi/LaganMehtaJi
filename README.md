@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]! 
+# 👋 Hi, I’m Lagan Mehta
 
 **Full-Stack Developer | Problem Solver | Open-Source Enthusiast**  
 
