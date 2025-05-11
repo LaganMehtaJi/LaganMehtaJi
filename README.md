@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Lagan%20Mehta&fontSize=50&fontAlignY=40&animation=fadeIn" alt="header"/>
 </div>
 
-<h1 align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=680&height=80&lines=Hello+World!+%F0%9F%91%8B;I'm+Lagan+Mehta;MERN+Stack+Architect;Blockchain+Explorer;Innovative+Problem+Solver" alt="Typing SVG" />
-  </a>
-</h1>
+
 
 <h3 align="center">🔭 Transforming complex problems into elegant solutions | 📦 npm package contributor</h3>
 
@@ -30,30 +26,7 @@
 
 ## 🚀 Professional Highlights
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">💼 Core Expertise</h3>
-        <ul>
-          <li>🔐 <b>Security-First Development</b>: OAuth 2.0, JWT, Cryptography</li>
-          <li>⚡ <b>Performance Optimization</b>: Reduced API response times by 68%</li>
-          <li>🌐 <b>Full-Stack Architecture</b>: Microservices to Monoliths</li>
-          <li>🤖 <b>AI Integration</b>: TensorFlow.js, NLP implementations</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🏆 Notable Achievements</h3>
-        <ul>
-          <li>📈 <b>10K+ downloads</b> of open-source packages</li>
-          <li>🏅 <b>Digital Currency Platform – Node.js, Express.js, Razorpay API, Face Recognition (Python), MongoDB</li>
-          <li>🚀 <b>Global-Skills – MERN Stack (MongoDB, Express.js, React.js, Node.js), Cloud Storage, Video Libraries</li>
-          <li>📚 <b>Voice Language Monitor – Python, Flask, SpeechRecognition, Google TTS, Language Detection</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ---
 
@@ -61,18 +34,18 @@
 
 <div align="center">
   <h3>Frontend Mastery</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,figma,webpack" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,figma" />
   
   <h3>Backend Expertise</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,expres,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expres" />
   
-  <h3>Database & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,aws,githubactions,nginx" />
+  <h3>Database </h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,sql,mysql" />
 </div>
 
 ---
 
-## 🔥 Current Projects
+## 🔥 Ongoing Projects 
 
 <div align="center">
   <table>
@@ -87,22 +60,22 @@
         <p>Biometric payment authentication system using facial recognition and blockchain</p>
       </td>
       <td width="33%" valign="top">
-        <h4 align="center">🤖 CodeSensei</h4>
+        <h4 align="center">🤖 GlobalSkillReady</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/-NLP-4CC417?logo=openai&logoColor=white" />
           <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" />
         </p>
-        <p>AI-powered code review tool with personalized learning recommendations</p>
+        <p>Learning Platform Creator and Consumer</p>
       </td>
       <td width="33%" valign="top">
-        <h4 align="center">🚀 DeployEZ</h4>
+        <h4 align="center">🚀 NodeDragon</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" />
           <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" />
           <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
         </p>
-        <p>Drag-and-drop serverless deployment platform with real-time monitoring</p>
+        <p>Drag-and-drop server deployment platform with real-time monitoring</p>
       </td>
     </tr>
   </table>
