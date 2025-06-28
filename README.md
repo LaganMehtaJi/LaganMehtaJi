@@ -1,105 +1,87 @@
-# 👋 Hi, I'm Lagan Mehta
+<h1 align="center">👋 Hello World! I'm Dilip Kumar</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Problem Solver | Bug Hunter</h3>
 
-**🚀 Full-Stack Developer | Problem Solver | Open-Source Enthusiast**  
-*Building digital solutions that make an impact*
-
----
-
-## 🔥 Featured Projects
-
-### 🐉 NodeDragon (Coming Soon!)
-**🛠 Visual Backend Builder with Drag & Drop Interface**  
-<div class="flex">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="20"/>
-  <img src="https://img.icons8.com/color/48/000000/blockly.png" alt="Blockly" width="20"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="20"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Backend+Developer;DS%26A+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
 </div>
 
-✨ A no-code platform to design, prototype, and deploy backend logic visually using Blockly.js  
-🔹 Drag-and-drop API endpoint creation  
-🔹 Real-time collaboration features  
-🔹 One-click deployment to cloud  
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
----
+## 🔥 About Me
 
-### 💼 TruewaysIndia.com
-**🌐 Portfolio & HR Management System**  
-<div class="flex">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="20"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="20"/>
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="20"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="20"/>
-</div>
-
-✅ Comprehensive company portfolio showcase  
-✅ Employee management dashboard  
-✅ Recruitment pipeline tracker  
-✅ Automated document generation  
-
----
+- 💻 Currently mastering **Backend Architecture & System Design**
+- 🧠 Solving **3 DSA problems daily** to sharpen my skills
+- 🚧 Working on an **AI-powered code review tool**
+- 📚 Learning **Cloud Native Technologies & Microservices**
+- ⚡ Fun fact: **I once debugged a critical issue at 3 AM that turned out to be a missing semicolon!**
 
 ## 🛠 Tech Stack
 
-**Frontend:**  
-<div class="flex">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="React Bootstrap" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" width="30"/>
+### Languages & Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,react,nextjs,nodejs,express,nestjs,django" />
 </div>
 
-**Backend:**  
-<div class="flex">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" title="Express.js" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/blockly.png" title="Blockly.js" width="30"/>
+### Databases & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,docker,kubernetes,aws,gcp,nginx" />
 </div>
 
-**Databases:**  
-<div class="flex">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" title="MySQL" width="30"/>
+### Tools & Platforms
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux,bash,powershell" />
 </div>
 
-**DevOps & Cloud:**  
-<div class="flex">
-  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker" width="30"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" width="30"/>
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=Dilip-Kashyp&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dilip-Kashyp&theme=radical&hide_border=true" />
 </div>
 
----
+<div align="center">
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
 
-## 🧠 Problem Solving
+## 🏆 Coding Profiles
 
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="20"/> [LeetCode Profile](https://leetcode.com/yourusername/)  
-✔ 150+ problems solved  
-✔ Specializing in algorithms and system design  
-
----
+<div align="center">
+  <a href="https://leetcode.com/u/Dilip-Kashyp/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/dilipkumar491249">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/25244343/dilip-kumar">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=Stack-Overflow&logoColor=white" />
+  </a>
+</div>
 
 ## 📫 Let's Connect
 
-<div class="flex">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dilip-kashyap/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30"/>
+  <a href="mailto:dilipkumer092@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30"/>
+  <a href="https://dilip-kashyp.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30"/>
+  <a href="https://dev.to/dilipkashyp">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </div>
 
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+## 🎯 Currently Working On
 
----
-
-⭐ **Fun Fact:** I automate boring tasks so I can focus on building revolutionary tools!  
-🔧 Currently building a CI/CD pipeline for my pet projects
+```python
+while True:
+    code()
+    debug()
+    deploy()
+    if bug_found:
+        fix()
+    else:
+        celebrate()
