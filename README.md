@@ -1,87 +1,124 @@
-<h1 align="center">👋 Hello World! I'm Dilip Kumar</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Problem Solver | Bug Hunter</h3>
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  Hey, I'm Lagan Mehta! 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</h1>
+
+<h3 align="center">
+  🔥 Full-Stack Developer 
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F7F7&center=true&vCenter=true&width=500&lines=Building+the+future+with+code;No-Code+Enthusiast;Turning+ideas+into+products;Innovating+one+commit+at+a+time" alt="Typing Animation" />
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Backend+Developer;DS%26A+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers" />
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+---
 
-## 🔥 About Me
+### 🚀 **Featured Projects**
 
-- 💻 Currently mastering **Backend Architecture & System Design**
-- 🧠 Solving **3 DSA problems daily** to sharpen my skills
-- 🚧 Working on an **AI-powered code review tool**
-- 📚 Learning **Cloud Native Technologies & Microservices**
-- ⚡ Fun fact: **I once debugged a critical issue at 3 AM that turned out to be a missing semicolon!**
+#### 🐉 **NodeDragon** *(Coming Soon!)*  
+**Visual Backend Builder | Zero-Code API Designer**  
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blockly-4285F4?logo=blockly&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+</div>
 
-## 🛠 Tech Stack
+✨ Drag-and-drop server logic | 🔥 Real-time collaboration | 🚀 One-click cloud deploy  
 
-### Languages & Frameworks
+---
+
+#### 💼 **TruewaysIndia HR Suite**  
+**Enterprise HR Management System**  
+**truewaysindia.com**
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+</div>
+
+✅ Employee lifecycle automation | 📊 Analytics dashboard | 📝 Document generation  
+
+---
+
+### 🛠 **Tech Stack Superpowers**
+
+<details open>
+<summary><b>💻 Frontend</b></summary>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,react,nextjs,nodejs,express,nestjs,django" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,redux,figma" />
 </div>
+</details>
 
-### Databases & DevOps
+<details>
+<summary><b>⚙️ Backend</b></summary>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,docker,kubernetes,aws,gcp,nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </div>
+</details>
 
-### Tools & Platforms
+<details>
+<summary><b>🗃️ Databases</b></summary>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </div>
+</details>
 
-## 📈 GitHub Stats
+<details>
+<summary><b>☁️ DevOps</b></summary>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" />
+</div>
+</details>
+
+---
+
+### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=Dilip-Kashyp&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dilip-Kashyp&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
-## 🏆 Coding Profiles
+---
+
+### 🤝 **Let's Collaborate!**
 
 <div align="center">
-  <a href="https://leetcode.com/u/Dilip-Kashyp/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/dilipkumar491249">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/25244343/dilip-kumar">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=Stack-Overflow&logoColor=white" />
-  </a>
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dilip-kashyap/">
+  <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dilipkumer092@gmail.com">
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://dilip-kashyp.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://dev.to/dilipkashyp">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
-## 🎯 Currently Working On
+---
 
-```python
-while True:
-    code()
-    debug()
-    deploy()
-    if bug_found:
-        fix()
-    else:
-        celebrate()
+### ⚡ **Fun Fact Zone**
+
+```javascript
+const lagan = {
+  pronouns: "he/him",
+  code: ["JavaScript", "Python"],
+  askMeAbout: ["No-code tools", "Backend architecture"],
+  currentFocus: "Building NodeDragon",
+  funFact: "Automated my coffee machine to brew when I commit code!"
+};
